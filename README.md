@@ -612,6 +612,54 @@ streamlit run src/app.py
 
 The Streamlit application will open in your browser.
 
+\## 📊 Visualizations
+
+
+
+The project includes several visualizations to explore relationships between healthcare factors and stroke outcomes.
+
+
+
+\### Age vs Stroke
+
+
+
+!\[Age vs Stroke](outputs/figures/age\_vs\_stroke.png)
+
+
+
+\### BMI vs Stroke
+
+
+
+!\[BMI vs Stroke](outputs/figures/bmi\_vs\_stroke.png)
+
+
+
+\### Average Glucose Level vs Stroke
+
+
+
+!\[Glucose vs Stroke](outputs/figures/glucose\_vs\_stroke.png)
+
+
+
+\### Correlation Heatmap
+
+
+
+!\[Correlation Heatmap](outputs/figures/correlation\_heatmap.png)
+
+
+
+\### Covariance Heatmap
+
+
+
+!\[Covariance Heatmap](outputs/figures/covariance\_heatmap.png)
+
+
+
 
 
 📈 Key Analytical Findings
